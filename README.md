@@ -6,9 +6,7 @@ A precise 3D heart model designed from scratch using cloud-based Computer-Aided 
 
 ## 📸 Workflow & Preview
 
-<p align="center">
-  <video src="Heart onshape.mp4" width="95%" controls></video>
-</p>
+https://github.com/tasneem2003mo/Heart-onshape/blob/main/Heart%20onshape.mp4
 
 ---
 
